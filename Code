@@ -1,6 +1,6 @@
 -- Define the list of allowed user IDs
 
-local allowedIDs = {116470938, 3920661934, 16875091, 2649957141}
+local allowedIDs = {116470938, 3920661934, 16875091, 2649957141, 2425974901}
 
 -- Get the ID of the local player
 
