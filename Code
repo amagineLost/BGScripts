@@ -1,5 +1,5 @@
 -- Define the list of allowed user IDs
-local allowedIDs = {2425974901, 1809192714, 16875091, 125449922, 3340760443}
+local allowedIDs = {2425974901, 1809192714, 16875091, 125449922, 3340760443, 3602779244}
 
 -- Get the ID of the local player
 local userID = game.Players.LocalPlayer.UserId
